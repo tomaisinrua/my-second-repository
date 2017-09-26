@@ -1,0 +1,3 @@
+hello there.
+
+just finding my feet with git
